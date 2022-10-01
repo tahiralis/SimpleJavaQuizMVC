@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizMVC</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string name="my_question1">1.The atomic number for lithium is 17</string>
+    <string name="my_question2">2.A cross between a horse and a zebra is called a \'Hobra\'</string>
+    <string name="my_question3">3.The black box in a plane is black</string>
+    <string name="my_question4">4.Alliumphobia is a fear of garlic</string>
+    <string name="my_question5">5.Prince Harry is taller than Prince William</string>
+    <string name="next">Next</string>
+
+</resources>
